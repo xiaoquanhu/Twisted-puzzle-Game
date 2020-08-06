@@ -6,6 +6,8 @@ made by the games developer [SmartGames](http://www.smartgames.eu/en).
 
 Objective 
 
+![game](assets/iqtwist.png)
+
 The game is a puzzle; the objective is to place all eight colored
 playing pieces onto a board comprising 32 locations (indents) on which
 up to seven colored pegs may be arranged.  The player must place the
